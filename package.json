@@ -1,0 +1,11 @@
+{
+  "name": "week10_weekend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan specs"
+  },
+  "author": "",
+  "license": "ISC"
+}
